@@ -11,4 +11,4 @@ To the run the program, open budgetanalyzer.py. Make sure the libraries are inst
 
 Example (MacOS): streamlit run /Users/exampleuser/Downloads/modeling-group-project-main/budgetanalyzer.py
 
-This project was made by by Thomas Feely, Lucas Longfellow, Zach Cheney, and Michael Duffy
+This project was made by Thomas Feely, Lucas Longfellow, Zach Cheney, and Michael Duffy
