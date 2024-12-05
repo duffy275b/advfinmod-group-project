@@ -6,6 +6,8 @@ numpy
 matplotlib
 scikit-learn
 plotly
+babel
+locale
 
 To the run the program, open budgetanalyzer.py. Make sure the libraries are installed and open the terminal. Insert "streamlit run filepath" and replace "filepath" with the local filepath that the budgetanalyzer.py is located.
 
