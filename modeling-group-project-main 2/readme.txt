@@ -9,7 +9,7 @@ plotly
 babel
 locale
 
-To the run the program, open budgetanalyzer.py. Make sure the libraries are installed and open the terminal. Insert "streamlit run filepath" and replace "filepath" with the local filepath that the budgetanalyzer.py is located.
+To the run the program, open budgetanalyzer.py. Make sure the libraries are installed and open the terminal. Insert "streamlit run filepath" and replace "filepath" with the local filepath that the budgetanalyzer.py is located. Press enter.
 
 Example (MacOS): streamlit run /Users/exampleuser/Downloads/modeling-group-project-main/budgetanalyzer.py
 
